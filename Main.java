@@ -2,7 +2,7 @@ package ticTacToeGame;
 
 import java.util.*;
 
-class TicTacToeGame{
+class Main {
     private static ProcessPanel process;
 
     public static void main(String[] args) {
